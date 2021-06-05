@@ -8,10 +8,11 @@ A directional graph in a feed forward network fashion is set up. Apart from inpu
 and nodes in the layer hold different values of that hyperparameter.  
 The ant trail starts from input node and passes through different hyperparameter layers, picking up one value at each layer and reaches the output node.
 
-The network shown below has 3 different hyperparameters, namely learning rate, dropout rate and number of fc units with 4, 5 and 3 different values respectively.
+The network shown below has 3 different hyperparameters, namely learning rate, dropout rate and number of fully connected units with 4, 5 and 3 different values respectively.
 We can specify how many values can be given to particular layer. 
 These values are randomly selected from uniform distribution of given range.
-![Network](/ant_colony.png)
+
+<img src="ant_colony.png">
 
 **Note**: In google colab, PyGraphviz package can't be installed and so, the above network is generated locally on virtual environment.
 
