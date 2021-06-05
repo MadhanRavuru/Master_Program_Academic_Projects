@@ -1,6 +1,6 @@
 # Master Program Academic Projects
 
-This repositry contains the projects done during my Master Program at Technical University of Munich. All projects are related to Machine Learning.
+This repositry contains the projects done during my Master Program at Technical University of Munich (TUM). All projects are related to Machine Learning.
 
 ## Data Mining Lab:
 This course is about descriptive and predictive mining on dataset. We worked with two datasets in this lab course: UK road safety and NHTSA car rating dataset. We study about the road accidents from UK road safety dataset and car ratings based on crash tests from NHTSA dataset. We want to analyse how closely the real world accidents are related to standard crash tests. Our aim is to pursue anything related to car safety.
