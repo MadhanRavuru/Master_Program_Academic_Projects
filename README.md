@@ -20,3 +20,10 @@ This include worksheets and exercise codes from Machine Learning course.
 ## TDCV:
 TDCV - Tracking and Detection in Computer Vision. This folder includes tasks related to non-linear optimization of reprojection error, Random Forests and Pose estimation
 
+## Master Thesis Project:
+Thesis project on **Multi-Domain Learning for Multi-Output Classification of Red Blood Cells**. 
+
+_Abstract:_ Hematologists use their experience to identify Red Blood Cell (RBC) disorders. Manual examination of cells is time-consuming, labour-intensive and subjective. RBCs are highly deformable and vary in size, shape, hemoglobin distribution and inclusion, which makes manual classification tedious task. It gets even harder for the medical experts to classify unstained cells than stained cells. This thesis addresses Machine Learning models - particularly Deep Learning algorithms - to tackle above mentioned problem. Firstly, RBCs are detected from blood smear images to from crops. Then, from each crop, only center cell is extracted using Segmentation. Extraction of center cell gets difficult, if the cell is touching or overlapping with other cell inside crop. Later, we perform Multi-Output Classification on the cell to predict cell properties. Hand-crafted features are also derived from extracted center cell crops using feature engineering and are analyzed. Results from Supervised and Unsupervised learning are compared. Finally, Unsupervised Domain Adaptation is used to learn from multiple domains, namely stained and unstained, for cell classification. We hope our Image recognition Artificial Intelligence (AI) helps to revolutionize medical diagnostics, thereby, making it cheaper and more accessible.
+
+
+Code for this thesis project is only private, as the project is done in collaboration with **Siemens Healthineers AG**
