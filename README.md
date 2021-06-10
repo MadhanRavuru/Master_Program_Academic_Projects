@@ -18,7 +18,7 @@ MLMI - Machine Learning in Medical Imaging. This is lab course at TUM. Our goal 
 This include worksheets and exercise codes from Machine Learning course.
 
 ## TDCV:
-TDCV - Tracking and Detection in Computer Vision. This folder includes tasks related to non-linear optimization of reprojection error, Random Forests and Pose estimation
+TDCV - Tracking and Detection in Computer Vision. This folder includes tasks related to non-linear optimization of reprojection error, Random Forest based Object detection and Pose estimation
 
 ## Master Thesis Project:
 Thesis project on **Multi-Domain Learning for Multi-Output Classification of Red Blood Cells**. 
