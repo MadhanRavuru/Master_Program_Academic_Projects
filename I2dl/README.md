@@ -12,6 +12,8 @@ Project on Semantic segmentation and Facial keypoint recognition.
 ### PytorchIntroAndOptionalCNN:
 Introduction to Pytorch and Optional Convolutional Neural Network.
 
+Link to the [course](https://niessner.github.io/I2DL/)
+
 
 
 
