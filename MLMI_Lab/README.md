@@ -1,3 +1,5 @@
+Link to the [lab course](http://campar.in.tum.de/Chair/TeachingSs20MLMI)
+
 # Hyperparameter optimization using ACO
 
 The most popular variation of ACO algorithms, namely [ACS(Ant Colony System)](http://people.idsia.ch/~luca/acs-ec97.pdf) algorithm is considered.
